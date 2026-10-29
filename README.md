@@ -127,7 +127,3 @@ The legacy `/api/dashboard/me` and `/api/admin/users` endpoints are also retaine
 ## IntelliJ IDEA quick start
 
 Open the `backend` folder as a Maven project, select JDK 21, wait for dependencies, and run `com.userhub.UserhubApplication`. Open a terminal in `frontend`, run `npm install` and then `npm run dev`. The frontend uses `http://localhost:5173`; the backend uses `http://localhost:8080`.
-
-## Before submission
-
-Run and verify all flows locally. Save genuine screenshots into `docs/screenshots/` (registration, login, dashboard, ADMIN users, edit profile). Commit the repository to GitHub yourself; this ZIP does not represent a verified running app or an uploaded repository.
